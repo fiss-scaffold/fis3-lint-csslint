@@ -1,8 +1,8 @@
-# fiss-lint-csslint
+# fis3-lint-csslint
 
-[![npm version](https://badge.fury.io/js/fiss-lint-csslint.svg)](https://badge.fury.io/js/fiss-lint-csslint)  [![npm](https://img.shields.io/npm/dt/fiss-lint-csslint.svg)](http://npm-stat.com/charts.html?package=fiss-lint-csslint&author=zhangyihua&from=2016-01-01&to=2116-01-24)
+[![npm version](https://badge.fury.io/js/fis3-lint-csslint.svg)](https://badge.fury.io/js/fis3-lint-csslint)  [![npm](https://img.shields.io/npm/dt/fis3-lint-csslint.svg)](http://npm-stat.com/charts.html?package=fis3-lint-csslint&author=zhangyihua&from=2016-01-01&to=2116-01-24)
 
-基于 [csslint](https://github.com/CSSLint/csslint) 的 fiss css linter。由于 fiss 基于 fis3 拓展，fis-conf.js 以及插件使用等都需遵循 fis3 规则。
+基于 [csslint](https://github.com/CSSLint/csslint) 的 fis3 css linter。由于 fis3 基于 fis3 拓展，fis-conf.js 以及插件使用等都需遵循 fis3 规则。
 
 ----
 
@@ -13,13 +13,13 @@
 全局安装：
 
 ```cli
-	npm install -g fiss-lint-csslint
+	npm install -g fis3-lint-csslint
 ```
 
 安装到当前目录：
 
 ```cli
-	npm install fiss-lint-csslint
+	npm install fis3-lint-csslint
 ```
 
 ### 配置
