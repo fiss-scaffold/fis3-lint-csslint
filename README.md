@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/fis3-lint-csslint.svg)](https://badge.fury.io/js/fis3-lint-csslint)  [![npm](https://img.shields.io/npm/dt/fis3-lint-csslint.svg)](http://npm-stat.com/charts.html?package=fis3-lint-csslint&author=zhangyihua&from=2016-01-01&to=2116-01-24)
 
-基于 [csslint](https://github.com/CSSLint/csslint) 的 fis3 css linter。由于 fis3 基于 fis3 拓展，fis-conf.js 以及插件使用等都需遵循 fis3 规则。
+基于 [csslint](https://github.com/CSSLint/csslint) 的 fis3 css linter。插件使用遵循 fis3 规则。
 
 ----
 
