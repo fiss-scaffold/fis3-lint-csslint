@@ -61,8 +61,8 @@ fis.match('css/*.css', {
 
 默认配置规则（rules）说明：
 
-- [error] 错误的属性名。(know-properties)
-- [warning] 样式规则内容为空。(empty-rules)
-- [warning] 属性在一条规则里重复使用。(duplicate-properties)
+- [know-properties] 错误的属性名。
+- [empty-rules] 样式规则内容为空。
+- [duplicate-properties] 属性在一条规则里重复使用。
 
 更多规则请参见 [csslint rules](https://github.com/CSSLint/csslint/wiki/Rules)。
