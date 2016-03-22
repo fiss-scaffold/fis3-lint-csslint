@@ -1,24 +1,24 @@
 {
-  "name": "fiss-lint-csslint",
+  "name": "fis3-lint-csslint",
   "version": "1.0.1",
-  "description": "a css linter plugin of fiss based on csslint",
+  "description": "a css linter plugin of fis3 based on csslint",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "htts://github.com/fiss-plugins/fiss-lint-csslint.git"
+    "url": "htts://github.com/fis3-scaffold/fis3-lint-csslint.git"
   },
   "keywords": [
     "csslint",
     "linter",
     "css",
-    "fiss-lint-csslint",
+    "fis3-lint-csslint",
     "lint",
     "fis",
     "fis3",
-    "fiss"
+    "fis3"
   ],
   "author": "zhangyihua",
   "license": "MIT",
